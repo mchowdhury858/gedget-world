@@ -1,0 +1,40 @@
+.nav-item a{
+
+color: black;
+
+}
+
+.buy-now-button{
+
+   background-image: linear-gradient(45deg,orange, lightsalmon);
+   color:white;
+   border:none;
+   border-radius: 5px;
+   margin:2px;
+   
+
+
+}
+
+.bgpic1{
+
+
+background-image: url(images/bg-1.png);
+display: flex;
+background-position: center;
+background-repeat: no-repeat;
+background-size: 50px;
+}
+
+.bgpic2{
+
+
+   background-image: url(images/bg-2.png);
+   display:flex;
+    position: left bottom;
+   background-repeat: no-repeat;
+   
+}
+
+
+
